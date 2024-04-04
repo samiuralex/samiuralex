@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samiuralex
 - 👀 I’m interested in programming and cyber security.
-- 🌱 I’m currently learning python and linux.
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning MERN Stack, Data Science and linux.
+- 💞️ I’m looking to collaborate on Data Science and Webdevelopment.
 - 📫 How to reach me samiuralex@gmail.com
 
 <!---
